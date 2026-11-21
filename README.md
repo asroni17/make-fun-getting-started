@@ -1,3 +1,7 @@
+![bring the humans](https://make.fun/badge/bring-the-humans-02.svg)
+![rank](https://make.fun/badge/bring-the-humans-02/asroni17/make-fun-getting-started/rank.svg)
+![reward](https://make.fun/badge/bring-the-humans-02/asroni17/make-fun-getting-started/reward.svg)
+
 # Getting Started with make.fun — the guide I wish I had
 
 *[This guide contains my referral link. If it helps you get started on make.fun, signing up through it supports more guides like this: https://make.fun/r/fj9ns2cy ]*
